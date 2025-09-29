@@ -14,5 +14,3 @@ Aplikasi Flutter yang menampilkan koleksi hewan dengan informasi lengkap dan ant
 - UI modern dengan animasi smooth
 - Responsive design
 - Hero animations antar halaman
-
-## Struktur Project
