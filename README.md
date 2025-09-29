@@ -1,16 +1,18 @@
-# submission_dicoding
+# Kebun Binatang Bandung
 
-A new Flutter project.
+Aplikasi mobile katalog hewan untuk Kebun Binatang Bandung dengan UI/UX modern.
 
-## Getting Started
+## Tentang Aplikasi
 
-This project is a starting point for a Flutter application.
+Aplikasi Flutter yang menampilkan koleksi hewan dengan informasi lengkap dan antarmuka menarik. Dibuat sebagai submission project untuk kursus **Belajar Membuat Aplikasi Flutter untuk Pemula** di Dicoding Indonesia.
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Pencarian hewan real-time
+- Dashboard statistik
+- Sistem favorit
+- UI modern dengan animasi smooth
+- Responsive design
+- Hero animations antar halaman
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Struktur Project
